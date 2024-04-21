@@ -11,7 +11,7 @@
                 <a class="nav-link" href="view/blog/new-blog.php">وبلاگ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">تماس با ما</a>
+                <a class="nav-link" href="view/contact/contactus.php">تماس با ما</a>
             </li>
         </ul>
     </div>
