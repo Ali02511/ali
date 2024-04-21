@@ -16,7 +16,11 @@
     ?>
 </header>
  
-<div class="container">
+<div class="background">
+        <div class="overlay"></div>
+    </div>
+
+    <div class="container">
         <h1>تماس با ما</h1>
         <form action="submit_form.php" method="POST">
             <div class="form-group">
